@@ -1,0 +1,355 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The holy choice, or, Faith's triumph over all worldly pomp &amp; glory a sermon preached in St. Maries in Scilly, Oct. 14, 1677 / by Nich. Phillips, twice chaplain to His Majesties garrison there ; and tendred at the council-table, Jan. 23, 1679.</title>
+            <author>Phillips, Nicholas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 54 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54719</idno>
+            <idno type="STC">Wing P2035A_VARIANT</idno>
+            <idno type="STC">ESTC R36675</idno>
+            <idno type="EEBO-CITATION">15869331</idno>
+            <idno type="OCLC">ocm 15869331</idno>
+            <idno type="VID">104654</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54719)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104654)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1154:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The holy choice, or, Faith's triumph over all worldly pomp &amp; glory a sermon preached in St. Maries in Scilly, Oct. 14, 1677 / by Nich. Phillips, twice chaplain to His Majesties garrison there ; and tendred at the council-table, Jan. 23, 1679.</title>
+                  <author>Phillips, Nicholas.</author>
+               </titleStmt>
+               <extent>[6], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Benjamin Harris ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: stained, torn, and tightly bound with print show-through and loss of print.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Hebrews XI, 15 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:104654:1" rendition="simple:additions"/>
+            <p>
+               <hi>The Holy Choice:</hi> OR, FAITH'S TRIUMPH OVER ALL <hi>Worldly Pomp &amp; Glory.</hi> A SERMON <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reached in St. <hi>Maries</hi> in <hi>Scilly,</hi> Oct. 14. 1677.</p>
+            <p>
+               <hi>Nich. Phillips,</hi> Twice Chaplain to His Majeſties Garriſon there.</p>
+            <p>And Tendred at the <hi>Council-Table,</hi> Jan. 23. 1679.</p>
+            <q>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>allem me Miſerum Sanctum, quam Proſperum Peccatorem. <bibl>
+                  <hi>Aug.</hi>
+               </bibl>
+            </q>
+            <q>
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that taketh not up his Croſs, and followeth after me, is not worthy of me,
+<bibl>
+                  <hi>Matth. 10.38.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>
+                  <gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>on,</hi> Printed for <hi>Benjamin Harris</hi> at the <hi>Stationers Arms</hi> in the <hi>Piazza</hi> under the <hi>Royal Exchange</hi> in <hi>Cornhill,</hi> 1679.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:104654:2"/>
+            <pb facs="tcp:104654:2"/>
+            <head>TO THE PATRONAGE OF THOSE <hi>Pair of Sacred Siſters <hi>Truth and Iuſtice.</hi>
+               </hi>
+            </head>
+            <p>THough the one of you be ſtrong and invincible, and never fails in the end to get the Conqueſt and Prevail, yet by reaſon of the ſlackneſs of the other in affording you Succor and Defence, you ſeem many times quite vanquiſhed and laid in the duſt.</p>
+            <pb facs="tcp:104654:3"/>
+            <p>That my Doctrine is grounded on the Foundation of Truth and Verity, will appear moſt plainly by the Sacred Re<g ref="char:EOLhyphen"/>cords thereof, the Holy Scriptures. And I have Faith to believe that I ſhall in due time, and when Patience hath Perfected her Work, have Juſtice to Relieve and Right me; And that from him into whoſe Hand God hath Committed the Sword of it, our moſt Sacred Soverign, whom God preſerve long to Reign over us; and ſtill mightily and miraculouſly Proteſt and Defend from all the Deviliſh Plots and Conſpiracies of His Enemies.</p>
+         </div>
+         <div type="part">
+            <pb facs="tcp:104654:3"/>
+            <p>THE Garriſon Souldiers at <hi>Scilly,</hi> when they re<g ref="char:EOLhyphen"/>ceived their pay, uſed always to give ſomething to<g ref="char:EOLhyphen"/>wards the relief of the Poor; which Money, as ap<g ref="char:EOLhyphen"/>pears by their ſeveral accounts, was delivered unto the Church-Wardens, and diſpoſed of by them.</p>
+            <p>After Lient. <hi>Crudge</hi> came to Command the Garriſon,</p>
+            <p>The firſt pay day, it was paid unto the Warden, and diſpoſed of by them.</p>
+            <p>The ſecond, it was taken up by Lieut. <hi>Crudge,</hi> and im<g ref="char:EOLhyphen"/>ployed by him to pay for working up his Majeſties Iron, to make Harth-grates for th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Guard-houſes.</p>
+            <p>The third, the Pay-maſter of the Garriſon, Sir <hi>William Godolphin's</hi> Agent there, happened to be Warden, and ha<g ref="char:EOLhyphen"/>ving the Money in his Hand refuſed, upon the Command of Lieut. <hi>Crudge,</hi> to d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>liver it unto him; telling him that it was the Poors Money, and that he being Warden<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; would imploy it to the uſe of the Poor, and give an accompt of it to the Pariſh, as his Predeceſſors had done.</p>
+            <p>Upon the Wardens refuſal to deliver up the Poors Money; to be imployed contrary to the intent of the Donors, and for<g ref="char:EOLhyphen"/>mer practiſe, the Lieutenant ſends a Guard for him, puts him into the Dungeon, or Hole belonging to the Garriſon, there kept him two Days and Nights to the great danger of his Life; and would not let him out till he had delivered up the Money.</p>
+            <p>
+               <hi>Nich. Phillips</hi> Miniſter there, hearing of theſe differences about the Mon y given at the preſent pay-day, took an occaſi<g ref="char:EOLhyphen"/>on to inquire how the Money given at the precedent pay-day was beſtowed; and was told that a ſmall parcel of it was put into the Poor Mans box, and that the reſt was imployed as is aforeſaid.</p>
+            <p>Whereupon meeting as he went to Morning-Prayer, <hi>Sa<g ref="char:EOLhyphen"/>turday, October 13.</hi> with the Serjeant, who was ordered by the Lieutenant to require the Money from the Pay-maſter,
+<pb facs="tcp:104654:4"/>and to pay with it the Smith that wrought up the Kings Iron:</p>
+            <p>He told him, that he heard he had put Money into the Poor Mans box, and asked him what Money it was? He anſwered, That it was the Poors Money, the Money given to the Poor on ſuch a pay-day. He demanded of him again, what was be<g ref="char:EOLhyphen"/>come of the reſt? He anſwered, That it was imployed about the uſe aforeſaid.</p>
+            <p>Thereupon the Miniſter endeavoured to make him ſenſible of the unlawfulneſs of ſuch an act, and how great a ſin it was to imploy unto Secular, what was given to Sacred and Pi<g ref="char:EOLhyphen"/>ous uſes. All that he could ſay, was to alleadge the Command of his Officer, and that he could not help it; if he had not done it he, ſhould be puniſhed. To whom the Miniſter ſaid no more at preſent, than that he had been better taught.</p>
+            <p>After Evening-Prayer, that day, the Smith that wrought up the King's Iron, and received the Poors Money for ſo doing, came unto the Miniſters houſe, with whom the Miniſter began to expoſtulate about the unlawfulneſs of ſuch an act. He re<g ref="char:EOLhyphen"/>plied That he had ſeveral times denyed the Serjeant to work up the Iron, and that he did not meddle with it, till the Lieu<g ref="char:EOLhyphen"/>tenant himſelf came down into his Shop and Commanded him to do it.</p>
+            <p>The ſerious Conſideration of the great danger men would bring their Souls into, by yielding obedience unto unlawful Commands, for the preſervation of their Bodies; kept the Minister reſtleſs that Night, and made him riſe at midnight to add to his Sermon which he had prepared for the next day, this ſeaſonable Paragraph ſo marked [* in the Sermon at large.</p>
+            <p>Which though it hath drawn upon him infinite Trouble and Vexation, and cauſed him to be Traduced and Slandered to the whole World al<g ref="char:EOLhyphen"/>moſt, yet would be not have left it unſaid for a thouſand Worlds. And he doth glory more in it than he doth in any thing that ever he did, or ſaid; it having freed him from the guilt of the Blood of thoſe South which by the contempt of the Doctrine delivered in it hath been ſpilt.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:104654:4"/>
+            <head>The Holy Choice. &amp;c.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Heb. 11.15.</hi>
+                  </bibl> Chuſing rather to ſuffer Affliction with the people of God, than to enjoy the pleaſures of ſin for a ſeaſon.</q>
+            </epigraph>
+            <p>FAith, though challenged by ſome to be the peculiar Trea<g ref="char:EOLhyphen"/>ſure of Gods younger Sons, is notwithſtanding the gene<g ref="char:EOLhyphen"/>ral portion of all his adopted ones; and not only under the Goſpel, but under the Law; yea, and before the Law too, was this Grace given to the Sons of men.</p>
+            <p>
+               <hi>Abel</hi> and <hi>Enoch,</hi> and <hi>Noah,</hi> and <hi>Abraham</hi> are by the Apoſtle in the precedent Verſes ſaid to have <hi>walked by Faith,</hi> even before the Law. And <hi>Moſes</hi> the Lawgiver himſelf, is here in the very pre<g ref="char:EOLhyphen"/>cedent Verſe, ſaid to have <hi>walked by Faith. By Faith,</hi> Moſes, <hi>when he was come to years, refuſed to be called the Son of</hi> Pharaohs <hi>Daughter.</hi>
+            </p>
+            <p>Among all the noble Chieftains of Faith that preceded the Law, <hi>Abraham</hi> hath the firſt place aſſigned him. He it was that gave Belie<g ref="char:EOLhyphen"/>vers a juſt Title to the promiſed Land, and hath the Honour gi<g ref="char:EOLhyphen"/>ven him to be called <hi>The Father of the Faithful.</hi>
+            </p>
+            <p>Among all the faithful Worthies under the Law, <hi>Moſes</hi> ſtands formoſt, He, he it was that brought up the <hi>Houſhold of Faith</hi> from
+<pb n="2" facs="tcp:104654:5"/>
+               <hi>out of the Houſe of Bondage,</hi> Conducted them in ſafety through the <hi>Perilous Wilderneſs,</hi> ſhewed them the <hi>Promiſed Land;</hi> and gave a peerleſs and an unparallell'd Teſtimony of his Faith, by <hi>chuſing rather to ſuffer Aſſliction with the Children of God, than to enjoy,</hi> &amp;c.</p>
+            <p>But before I proceed to ſpeak of this peerleſs and unparallell'd Pattern of his Faith, manifeſted moſt clearly by this his ſeeming fooliſh and miſerable, but indeed wiſe and happy Choyce; I ſhall firſt, by God's Gracious Aſſiſtance, ſhew you the Hiſtory and Manner of his Life, before he come to Years of Diſcretion, to make this Choice for himſelf.</p>
+            <p>His Life was no ſooner given him by a Gracious God, than it was ſought to be taken away from him by a Cruel and Mercileſs Man.</p>
+            <p>His tender Non-Age, though it wanted not a heart to receive Danger-daunting Faith; yet it wanted a Hand to wield ſo maſſie and weighty a Shield: Some other ones Buckler then muſt now protect and defend him, or elſe the ſame hand that delivers him from the Womb, muſt alſo lay him in the Tomb: For thus ſaith <hi>Pharaoh to the Hebrew Midwives,</hi> Exod. 1.16. <hi>If it be a Man-child, kill him.</hi>
+            </p>
+            <p>[* <hi>And here from the Piety and Courage of the</hi> Hebrew <hi>Midwives, who feared more to offend God than Man, and who would not upon the Command of a Tyrannous, Oppreſſing King, act againſt the expreſs Command of God, and imbrue their hands in innocent Blood, muſt I (if I will deliver my own Soul from Blood-guiltineſs) take the Courage and Boldneſs to tell you, That it is not lawful nor ſafe for your Souls, in all Cauſes to obey the Commands of your Lawful Superiors.</hi>
+            </p>
+            <p>Indeed in things not forbidden them by God, no Souls are more ſubject unto the higher powers, than are God's faithful Ser<g ref="char:EOLhyphen"/>vant<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s and ſuch as fear him. But when mens Commands claſh with Gods Divine Precents, and they enjoin what he forbids, they muſt then ſtand more in fear to offend him who can kill their Souls, and caſt them into Hell, than them who can but kill their Bodies, or caſt them into ſome dark Dungeon or Hole.</p>
+            <p>And a Preſident for ſo doing, we have not only given us in the
+<pb n="3" facs="tcp:104654:5"/>Goſpel, by the Apoſtles of our Lord and Saviour; who being forbidden by the <hi>Jewiſh Sanhedrim</hi> of Prieſts and Elders, <hi>to ſpeak unto the People in the Name of Chriſt,</hi> boldly told them to their teeth, that <hi>it was better to obey God than man,</hi> Acts 5.29. but alſo ſeveral Preſidents for it in the Law.</p>
+            <p n="1">1. By theſe <hi>Hebrew Midwives,</hi> Exod. 1. who refuſed, when com<g ref="char:EOLhyphen"/>manded by King <hi>Pharaoh,</hi> to kill the <hi>Hebrew</hi> Male-Children.</p>
+            <p n="2">2. By the Souldiers of King <hi>Saul,</hi> 1 Sam. 22.17. who refuſed upon his Command, to fall upon the Prieſts of the Lord, and choſe rather to expoſe their own throats to the fury of an incenſed King, than imbrue their hands in the Blood of Gods Prieſts.</p>
+            <p n="3">3. By <hi>Shadrach,</hi> &amp;c. <hi>Dan.</hi> 3. who refuſed, when Commanded by King <hi>Nebuchadnezzar,</hi> to <hi>fall down and worſhip the Golden Image which he had ſet up,</hi> and that under a heavier penalty than caſting into a dark Dungeon; even of being <hi>caſt into the midſt of a burn<g ref="char:EOLhyphen"/>ing fiery Furnace;</hi> and choſe rather to be caſt <hi>into the midſt of the burning fiery Furnace,</hi> than to worſhip any other God but the True and Living one.</p>
+            <p n="4">4. By <hi>Daniel,</hi> Chap. 6. who, when forbidden by King <hi>Darius,</hi> to preſent a Petition to any other, either God or man, than him<g ref="char:EOLhyphen"/>ſelf, <hi>for the ſpace of thirty days,</hi> under the penalty of being <hi>caſt into the Den of hungry Lions,</hi> obeyed him not; but <hi>thrice every day</hi> on his bended knees preſented his Supplications and Prayers unto God.</p>
+            <p>And if the Commands of Kings, who are the ſupream and higheſt Powers on Earth, may not, when unlawful, be perform<g ref="char:EOLhyphen"/>ed by thoſe who will manifeſt themſelves to be Gods faithful Servants, and ſuch as fear him; then much leſs may the Lawleſs Commands of thoſe that are of inferior power, and ſubordinate unto them, be obeyed of them.</p>
+            <p>And though <hi>Beggars</hi> (as ſaith the Proverb) <hi>when ſet on horſe<g ref="char:EOLhyphen"/>back, will ride</hi>—and men (ſaith Experience) not uſed to it, will grow giddy and light-headed, when ſet on high places. And though none are more apt to take more power unto themſelves, than of right belongs unto them, than thoſe that have leaſt com<g ref="char:EOLhyphen"/>committed unto them, and are of the loweſt and moſt inferior degree of ſubordinate Officers; yet to fear more to offend ſuch,
+<pb n="4" facs="tcp:104654:6"/>than to offend God, is the loweſt degree of Baſeneſs and Cow<g ref="char:EOLhyphen"/>ardiſe; yea, to manifeſt our ſelves to be more weak than Women: for there are higher than they, and ſeveral degrees above them here on Earth, unto whom, when wronged by them, we may have recourſe for Juſtice, and need not let our Faith put our Patience to the trouble to wait till the laſt great Day of Judgment come, for Redreſs,</p>
+            <p>For as far as the power of God exceeds the power of the King, ſo far doth the power of the King exceed the power of his ſub<g ref="char:EOLhyphen"/>ordinate Officers; and as when oppreſſed and burdened by the King, we may make our Appeal unto God, who though he hath al<g ref="char:EOLhyphen"/>lowed no power on Earth to call him to an Account for his Actions, &amp; to puniſh him; yet hath reſerved to himſelf a power ſo to do; and hath, as ſaith the Prophet, <hi>Iſa.</hi> 30. <hi>ult. provided a Tophet</hi> hereafter, a Priſon large and ſtrong enough to hold and puniſh the greateſt Monarch that ever was upon the Earth: ſo when wronged and injured by his ſubordinate Officers, we may make our Appeal un<g ref="char:EOLhyphen"/>to the King, who will undoubtedly right us and puniſh them, if they exceed the Bounds and Limits of their Commiſſions, and uſurp more power over us than he gives them.</p>
+            <p>And though no ſubordinate Officers are wont to uſurp more power unto themſelves, and to exceed the Bounds and Limits of their Commiſſions, than thoſe that are employed in Military Com<g ref="char:EOLhyphen"/>mands, who uſually take an Arbitrary Power unto themſelves, make their Will their Law; and when queſtioned with a <hi>Quo War<g ref="char:EOLhyphen"/>ranto,</hi> clap their hands on their Swords, as if the wearing of them, would bear them out in whatever they do.</p>
+            <p>And though none are uſually more cowardly and baſe, and rea<g ref="char:EOLhyphen"/>dy to obey unlawful Commands, than thoſe that ſhould be moſt couragious and valiant in defence of Truth and Innocency (Soul<g ref="char:EOLhyphen"/>diers) who ignorantly think, That becauſe they are bound in the courſe of their Military Duty and Service, to be obedient to the Commands of their Superiour Officers, they are bound to obey them in all things; to do and ſay whatever they will have them, be it never ſo falſe and unjuſt; and ſtand more in fear to he caſt in<g ref="char:EOLhyphen"/>to a dark Dungeon or Hole, than into the Fire of Hell.</p>
+            <p>Yet Officers and Souldiers ſure, if they will manifeſt them<g ref="char:EOLhyphen"/>ſelves
+<pb n="5" facs="tcp:104654:6"/>to be Chriſtian ones, have better Preſidents given them in the Holy Scriptures.</p>
+            <p>And taught are all Officers by the Third Captain of Fifty, which K. <hi>Ahaziah</hi> ſent to apprehend the Prophet <hi>Eliah,</hi> 2 Kin. 1. not to be<g ref="char:EOLhyphen"/>have themſelves as did the two former Captains, arrogantly and inſolently, but meekly and humbly, in the execution of their Of<g ref="char:EOLhyphen"/>fice.</p>
+            <p>And taught are all Souldiers, by the Souldiers of King <hi>Saul,</hi> 1 <hi>Sam.</hi> 22.17. not to obey the Commands of their Kings and Ge<g ref="char:EOLhyphen"/>nerals, much leſs of their inferior and loweſt ſort of Officers, when they are unlawful, and contradict and oppoſe thoſe of their God.</p>
+            <p>And, if praiſed upon Record in Scripture, are thoſe Jewiſh Officers and Souldiers, who behaved themſelves reverently and reſpectfully towards the Prieſts and Prophets of the Lord, and refuſed to lay violent hands on Sacred perſons, and ſuch as were Conſecrated unto Gods Service; can a Prieſt or a Prophet chuſe but condemn ſuch Chriſtian Officers and Souldiers as make no conſcience of laying violent hands on Sacred things, and ſuch as are Dedicated to pious and Charitable Uſes, and in ſo doing, dare preſume even to <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> God himſelf?</p>
+            <p>Whatever is <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> poor, <hi>is lent to the Lord,</hi> ſayes <hi>Solo<g ref="char:EOLhyphen"/>mon;</hi> Prov. 19. <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>wer is Dedicated to Pious and Reli<g ref="char:EOLhyphen"/>gious uſes, is, <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Hep. 13.16. <hi>
+                  <g ref="char:V">Ʋ</g>nto God a Sacrifice well pleaſing and</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> And therefore to take away that which is given to the poor, and to imploy in Secular, what was Dedica<g ref="char:EOLhyphen"/>ted to Sacred Uſes, muſt of neceſſity be a defrauding, and rob<g ref="char:EOLhyphen"/>bing of God, a thing moſt unpleaſing and abominable unto him.</p>
+            <p>Lawful I grant it is for men to do what they will with their own; and when they have Money, they may employ it as they pleaſe. But when they have once Dedicated it unto God, and given it to pious and charitable uſes, to re-aſſume it again, to command, employ, or give conſent to have it employed in any ſecular or prophane uſe, is the very higheſt point of Robbery and Injuſtice, no leſs Crime ſure than Sacriledge.</p>
+            <p>And that I preach now no new Divinity, and ſuch as is forged
+<pb n="6" facs="tcp:104654:7"/>in mine own idle Brain, but on Ancient, Catholick, Apoſtolick Truth, you will moſt plainly perceive, if you will be but pleaſed to look into the 5th. Ch. of the <hi>Acts</hi> of the Holy Apoſtles; there you will find it written, That when <hi>Ananias</hi> had dedicated a certain portion of Money to the Service of God and his Church, and af<g ref="char:EOLhyphen"/>terward taken away a certain part of it to employ otherwiſe, he was moſt ſharply reprehended, and moſt ſeverely and exemplarily puniſhed for it. And thus doth the Apoſtle St. <hi>Peter</hi> rattle him for it: <hi>v.</hi> 3, 4. <hi>Ananias,</hi> ſaid he, why haſt thou given ſuch way unto Satan; and ſuffered him ſo far to work upon thy heart, as to draw thee to the committing of ſo heinous a ſin, as is the <hi>Ly<g ref="char:EOLhyphen"/>ing unto the Holy Ghoſt;</hi> and the ſeeking to cozen and defraud God, by <hi>keeping back part of that Money</hi> which thou pretendeſt wholly to dedicate to his Service? Before thou didſt ſell thy Land, <hi>was it not in thine own power</hi> to do with it what thou wouldſt, to ſell it, or not to ſell it, to give it, or keep it? Nay, after thou hadſt ſold it, was it not in thine own power to do what thou wouldeſt with the Money thou madeſt of it? But after thou hadſt once dedica<g ref="char:EOLhyphen"/>ted it unto God, to be employed in the Service of his Church, and towards the Relief of his poor diſtreſſed Members, than to re-aſſume it again, and employ it in any other uſe; was, I muſt tell thee, a moſt heinous provoking ſin, and will not fail to draw down a ſudden and an exemplary Judgment upon thee.</p>
+            <p>And ſure the ſudden, and the moſt ſevere Judgment we here find to be executed upon <hi>Ananias,</hi> for keeping back part of that which he pretended to dedicate wholly to Gods Service, and the Re<g ref="char:EOLhyphen"/>lief of his Diſtreſſed Members, ſhould make all thoſe that have in any kind been guilty of this moſt heinous ſin (&amp; either by command<g ref="char:EOLhyphen"/>ing, acting, councelling or approving, have had a hand in employ<g ref="char:EOLhyphen"/>ing of that to Secular which (as appears upon Record) was given to pious and charitable uſes, even for the Relief of the poor) to tremble and quake, and fear, wherever they are, that ſome ſudden, fearful and exemplary Judgment will fall upon them; and by a timely and ſpeedy repentance and ſatisfaction, to en<g ref="char:EOLhyphen"/>deavour to prevent that which is worſe than the putting into a dark Dungeon or Hole, even the caſting into the bottomleſs Pit of Hell.</p>
+            <pb n="7" facs="tcp:104654:7"/>
+            <p>
+               <hi>Having thus from the great Piety and Courage which the</hi> Hebrew <hi>Mid<g ref="char:EOLhyphen"/>wives ſhewed, in refuſing upon the Command of King</hi> Pharaoh, <hi>to be<g ref="char:EOLhyphen"/>come inſtrumental in taking away of</hi> Moſes's <hi>life, taken the Courage and Boldneſs to deliver unto you this Ancient, Catholick, Apoſtolick Do<g ref="char:EOLhyphen"/>ctrine; That it is not lawful for you in all Cauſes to obey the Commands of your Lawful Superiors, and given you theſe moſt ſeaſonable Soul<g ref="char:EOLhyphen"/>ſaving Reproofs, Cautions, and Admonitions; I paſs now to ſpeak of the Faith and Courage of thoſe that were Inſtrumental in Saving and Preſerving of</hi> Moſes life.]</p>
+            <p>Faith, though it follow not Generation, but Regeneration, is be<g ref="char:EOLhyphen"/>gotten in us, not by the Father of our Fleſh, but of our Spirit: Yet it is no ſmall benefit ſure to be born of Faithful and Pious Pa<g ref="char:EOLhyphen"/>rents. Our Fathers Faith, Though it bring us not to Heaven, will yet protect us from many dangers here on Earth; and bleſſings are promiſed, <hi>Pſal.</hi> 112.2. to be entail'd in the Generation of the Faithful.</p>
+            <p>Never had <hi>Iſaac</hi> had a Being, had not the quick and lively Faith of his Father <hi>Abraham,</hi> aſſiſted with that of his Mother <hi>Sarah,</hi> quickned their dead and decrepit bodies to beget and conceive him. And <hi>Moſe</hi>'s Being, had ſoon been at an end, had not his Father <hi>Amram</hi>'s Faith, aſſiſted with that of his Mother <hi>Jochebed,</hi> ſtirred them up Couragiouſly, and ſans fear of the Kings diſpleaſure, to uſe their beſt endeavour to preſerve his Life. By Faith <hi>Moſes,</hi> ſaid our Apoſt. <hi>v.</hi> 23. when he was born, was hid three Months of his Parents, becauſe they ſaw that he was a proper Child, &amp;c.</p>
+            <p>
+               <hi>Amram</hi> being ſprung from that Tribe, <hi>unto whom God had com<g ref="char:EOLhyphen"/>mitted the keeping of his Oracles, the Tribe of</hi> Levi, and keeping in good remembrance the Promiſe that he had made unto <hi>Abraham, Gen.</hi> 15.13. <hi>viz.</hi> that after four hundred years bondage in a ſtrange Land, he would bring up his ſeed, greatly enriched with ſubſtance. And knowing that this time drew nigh, yea, being told, ſaid <hi>Jo<g ref="char:EOLhyphen"/>ſephus,</hi> That he who would break <hi>Egypts</hi> yoak, and eale <hi>Iſraels</hi> ſhoulders from bearing of heavy burdens, ſhould ſpring from his Loins.</p>
+            <pb n="8" facs="tcp:104654:8"/>
+            <p>But looking, as ſaid a better Author, and our Apoſtle here, <hi>v.</hi> 23. with the Eye of Faith on the goodly and well proportioned Limbs, on the Sweet and Majeſtick Face of this new-born, ſqua<g ref="char:EOLhyphen"/>ling, ſprauling Infant, he began to conceive in his Mind, That God had not not made this curious Cabinet, but for the holding of ſome rich and precious Jewel, and that this fair and well propor<g ref="char:EOLhyphen"/>tioned Body, was to be but the caſe of a more fair and well diſpo<g ref="char:EOLhyphen"/>ſed Mind. And ſome ſmall ſparks of hope began hereupon to kin<g ref="char:EOLhyphen"/>dle in his Breaſt, that this was he whom God had appointed to break <hi>Egypts</hi> yoak, and to bring up the Children of <hi>Iſrael</hi> from the Houſe of bondage. And therefore he is reſolved, notwith<g ref="char:EOLhyphen"/>ſtanding the Kings expreſs Command to kill, to uſe his beſt en<g ref="char:EOLhyphen"/>deavour to preſerve his Sons life.</p>
+            <p>
+               <hi>Abraham</hi> is ſaid by our Apoſtle here, <hi>v.</hi> 17. to have manifeſted his Faith, by reſolving to kill his Son: and <hi>Amram</hi> is here ſaid, <hi>v.</hi> 23. to have manifeſted his Faith, by reſolving to preſerve the life of his Son. So variouſly, and after ſuch divers manners, doth the ſame good Spirit of God work by one and the ſame inſtru<g ref="char:EOLhyphen"/>ment.</p>
+            <p>But <hi>Amram</hi>'s Faith which at the firſt charge fearleſs ſtood the ſhock of the Kings fury, after a three months Seige, begins to faint and craves for a Parly. And thus Reaſon begins to ſhake the Fort of his Reſolution, and to perſwade him to yield. Further, O <hi>Amram,</hi> to defer the Execution of the Kings Command, the killing of thy Son, will but increaſe thy fear, and prolong his mi<g ref="char:EOLhyphen"/>ſery. The ſearching Eye of the Kings Inquiſitors, or the tatling Tongue of a falſe Friend, or treacher ous Servant will ſhortly diſ<g ref="char:EOLhyphen"/>cover him, and then with his, thou wilt hazard thine own life al<g ref="char:EOLhyphen"/>ſo; at leaſt wilt looſe that which moſt men count the life of their life, thy Goods, and Eſtate, and have them Confiſcated. Better then to put an end unto his miſeries, and thine own fears, by his ſpeedy Death, then to prolong both by a concealed, and little bet<g ref="char:EOLhyphen"/>ter than dead Life.</p>
+            <pb n="9" facs="tcp:104654:8"/>
+            <p>Thus Reaſon aſſaults, and with ſuch good ſucceſs, that Faith is fain to retreat, and leave the Field: And <hi>Amram</hi> notwithſtanding his firſt brave defence, is reſolved to yield, and no longer to conceal his Son.</p>
+            <p>But though <hi>Amram</hi>'s Faith hath left the Field, yet ſhe hath a ſmall Citadel in his Heart, which ſhe ſtill ſtraitly maintains; and though <hi>Amram</hi> be reſolved no longer to conceal his Son, yet he will not ſo ſpeedily kill him as Reaſon perſwades: His Faith had ſtill ſo much life left, as to aſſure him that the Child had ano<g ref="char:EOLhyphen"/>ther Father, who had a larger ſhare in him than he had, and was able to do more for him than he could. And councels him, ſince he diſtruſts his own Power, as too weak to preſerve him, to caſt him wholly upon Gods Care and Providence.</p>
+            <p>Thus Reaſon, notwithſtanding his firſt good ſucceſs is forced again to retire, and <hi>Amram</hi> is reſolved to deliver his Son from out of his own Hands into Gods. His curious and Gold-enameld Cra<g ref="char:EOLhyphen"/>dle, he changeth into a ruſhy and dirt-dawbed Ark. And <hi>Moſes</hi> is caſt out from his Natural Fathers Houſe, and his perfum'd upper Chamber, into the great Lower-Houſe of his Spiritual Father, and laid among the Flags by the River.</p>
+            <p>In the Hiſtory indeed of which <hi>Moſes</hi> himſelf was the Penman; the contriving and executing of the means for his perſecution are wholly aſcribed unto his Mother, and there is no mention at all made of his Father. But though his Mother appeared Chief in the Execution, yet his Father doubtleſs ſate Preſident of the Coun<g ref="char:EOLhyphen"/>cil and chiefly contrived the means for his preſervation.</p>
+            <p>In perilous times wherein Tyrants make their Will their Law, and it is no leſs than a mans Life and Liberty is worth, to croſs their Decrees: Women (as being leſs to be feared) take more liberty to act in publick than men dare do. Though his Mother <hi>Jochebed</hi> then appeared moſt in the execution of the means for her Sons preſervation; yet <hi>Amram</hi> was not wanting in contributing his ut<g ref="char:EOLhyphen"/>moſt endeavours thereunto. I am ſure the Apoſtle hath made
+<pb n="10" facs="tcp:104654:9"/>them joynt partners in their Sons preſervation; and tells us, <hi>v.</hi> 23. that he was preſerved by the Faith of his Parents. <hi>By Faith Moſes,</hi> &amp;c.</p>
+            <p>To <hi>Amram</hi> therefore, as the Head and Chief (ſince he is now paſt the fear of <hi>Pharaoh</hi>'s Anger) do I aſcribe the uſing of the means for <hi>Moſes</hi> preſervation.</p>
+            <p>But doth not <hi>Amram</hi>'s Faith in placing his Son among the Flags, by the River, ſeem to be quite vanquiſh'd and overcome? What? Could he deliver his Son into the Hands of a more cruel Executioner than Water? And could he expect any pitty from ſo mercileſs an Element?</p>
+            <p>His Faith, I confeſs, was now fallen into a deep Swoon, but yet it was not quite gone. The Pitch and Slime wherewith he dawbed over the Bulruſh Ark, wherein he put his Son, to fence it againſt the taking in off watter, and that little Girle which ſits yonder ſo ſadly under a buſh, to watch what would became of him, plainly teſtifies that his Faith was not quite Dead; and that he had ſtill ſome ſmall hope left that his Hea<g ref="char:EOLhyphen"/>venly Father would ſee to, and provide for him.</p>
+            <p>And loe God, who never fails to provide for ſuch Children as are by faithful Parents caſt wholly upon his Care and Pro<g ref="char:EOLhyphen"/>vidence, and who taketh them up faith <hi>David,</hi> when their Fa<g ref="char:EOLhyphen"/>thers and Mothers forſake them, takes up this ſimple Soul from out of the duſt, and lifteth up this poor wretched Infant out of the mire, and ſets him among the Princes, even among the Princes of <hi>Zoan.</hi>
+            </p>
+            <p>For whilſt <hi>Moſes</hi> lay thus forlorn in his Ark of Bulruſhes, ſqualing among the Flags by the River; <hi>Pharaoh</hi>'s Daughter, attended by her Maids of Honour, comes down to waſh her<g ref="char:EOLhyphen"/>ſelf in the River; and eſpying this Ark among the Flags, ſhe ſends for it, and having opened it, ſhe was by the Tears of the ſweet Babe that lay in it, moved to tender Compaſſion to<g ref="char:EOLhyphen"/>wards
+<pb n="11" facs="tcp:104654:9"/>it, and gave Order to have it tenderly Nurſed; called him, from the Place out of which ſhe drew him, <hi>(Moſes),</hi> and afterwards adopts him for her own Son. Thus <hi>Moſes</hi> hath changed his poor enſlaved Parents for a Noble Princely Dame; his Thatch'd Cottage for a ſtately Palace; and in<g ref="char:EOLhyphen"/>ſtead of being brought up, as the <hi>Hebrews</hi> were enforced to bring up their Children, in hard and ſervile Labour, he is Princely educated, and inſtructed, ſaith St. <hi>Stephen, in all the Wiſdom and Learning of the</hi> Aegyptians, <hi>Acts</hi> 7.22.</p>
+            <p>But though <hi>Moſes</hi> be now Heir to a Crown, the Sun, unto whom the <hi>Egyptians</hi> pay the tribute of their Adorations and Devo<g ref="char:EOLhyphen"/>tions; yet before I preſent him with my humble Duty and Service, he muſt give me leave to pay it firſt where it is moſt juſtly due; and to fall down and adore the incompre<g ref="char:EOLhyphen"/>henſible. Wiſdom and Power of that God, who ſo fruſtra<g ref="char:EOLhyphen"/>teth and fools all the Deſigns of worldly wiſe Politicians; that he cauſeth the very ſame Means which they propoſe to themſelves, as the ſureſt and ſafeſt way, to bring to paſs their deſired Ends, to be the very Inſtruments of their Deſtruction and Ruine; and brings his determinate Coun<g ref="char:EOLhyphen"/>cils and Purpoſes to paſs, not only againſt their minds, but even by the very Means of thoſe that are his greateſt Enemies and Oppoſers.</p>
+            <p>What ſurer Plot could the Devil with his <hi>Jewiſh</hi> Conſi<g ref="char:EOLhyphen"/>ſtory of Prieſts and Elders contrive for the keeping of <hi>Je<g ref="char:EOLhyphen"/>ſus</hi> from being King of the <hi>Jews,</hi> than to accuſe him of Treaſon againſt <hi>Caeſar,</hi> and to deliver him up into the hands of <hi>Pintius Pilate,</hi> the <hi>Roman</hi> Governor of <hi>Judea?</hi> And yet this very Plot of theirs doth God by his all-working and all-ruling Providence convert unto Chriſt's greater Glory, and cauſed his Dominion thereby to extend not only over the whole Regi<g ref="char:EOLhyphen"/>on of <hi>Judea,</hi> but over all the Kingdoms of the World,
+<pb n="12" facs="tcp:104654:10"/>and to have <hi>the Heathen given him for his Inheritance, and the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ttermoſt Parts of the Earth for his Poſſeſſion.</hi>
+            </p>
+            <p>What better courſe could <hi>Joſeph</hi>'s Brethren have pitch'd on, for the preventing of their foretold Homage unto him, than to make a Slave of him, and to ſell him to the <hi>Iſh<g ref="char:EOLhyphen"/>maelites?</hi> And yet this enſlaving of their Brother, doth God by a ſtrange kind of Providence, convert to his Honour and their Shame; brings him hereby to be Lord of all <hi>Egypt,</hi> and them to come and bow down and kneel before him.</p>
+            <p>What more Miſchievous way could <hi>Haman</hi> invent to be re<g ref="char:EOLhyphen"/>venged on <hi>Mordecai</hi> for contemning his Honour, than to procure a Decree from the King for the utter Extirpation of the <hi>Jewiſh</hi> Nation? And yet doth God by a wonderful and an unparallell'd piece of Providence convert this De<g ref="char:EOLhyphen"/>ſign of his to <hi>Mordecai</hi>'s Exaltation, and his own Deſtru<g ref="char:EOLhyphen"/>ction.</p>
+            <p>What wiſer Courſe could <hi>Pharaoh</hi> and his Princes of <hi>Zoan</hi> have lighted upon, for the prevention of <hi>Iſraels</hi> Deliverance from out of their Bondage, by one that ſhould ſpring from their own Stock, (as was foretold them by their Magieians) than by iſſuing ſuch a Command, That all the <hi>Hebrew</hi> Male Children ſhould as ſoon as born, be ſlain? And yet doth God by his Wonder-working Power and Wiſdom, cauſe that very Hebrew Male-Child whom he had made choice of, for <hi>Iſraels</hi> Saviour, and <hi>Egypts</hi> Scourge, to be adopted by his own Daughter, and bred up in his own Court.</p>
+            <p>So fooliſh are the wiſe of this World, when they fit in Council againſt Wiſdom it ſelf, that their own Politick En<g ref="char:EOLhyphen"/>gines undermine and blow up themſelves. And ſo weak are all the Mighty of the World, when they come to grapple with the Almighty, that their Swords drop out of their hands, and run into their own Bowels; and he makes them be<g ref="char:EOLhyphen"/>come
+<pb n="13" facs="tcp:104654:10"/>the fatal Executioners of their own Deſtruction and Ru<g ref="char:EOLhyphen"/>ine; and hence is, as it is written, <hi>Prov.</hi> 21.30. <hi>no Wiſdom, nor Counſel, nor <g ref="char:V">Ʋ</g>nderſtanding againſt the Lord. He purpoſeth, and who can diſanul it? He ſtretcheth out his hand, and who can turn it back?</hi> demands the Prophet, <hi>Iſa.</hi> 14.27.</p>
+            <p>Surely theſe ſtrange and wondrous Works which God brings to paſs, not only againſt the Minds, but even by the very Means of thoſe that ſeek to hinder and oppoſe him, are able to make a prophane and blaſphemous Atheiſt turn holy An<g ref="char:EOLhyphen"/>choret, and ſpend his whole Life in admiring and adoring his incomprehenſible Wiſdom and Power; and ſhould make a Chriſtian and true Believer, ſuch an one as owns him for his God and Saviour, confident, in all dangers, of his Almighty Protection, and aſſured that all things, even the moſt Ma<g ref="char:EOLhyphen"/>licious Plots, the Deviliſh Devices, and the moſt Injurious Actions of his moſt Spiteful Enemies, ſhall in the end turn to his Gain and Advantage.</p>
+            <p>Having thus paid my Homage and Duty, where it was moſt juſtly due, unto that Almighty Three in One, who thus wondrouſly advanced <hi>Moſes,</hi> from the Margin of the Grave, to the Skirts of the Throne:</p>
+            <p>I come now to pay it to this young Prince, the Adopted Heir of <hi>Egypts</hi> Crown.</p>
+            <p>But be not miſtaken, <hi>Moſes,</hi> 'tis not to the Tiſſued Suit, and Purple Robe that thou weareſt on thy Back; but to the Golden Soul that harbours in thy Breaſt, that I come to pay my Dutiful and Loyal Reſpects unto. Let thy <hi>Egyptian</hi> Subjects praiſe thy comely Feature, thy Majeſtick Look, thy Princely Deportment, and thy Heroick Acts: 'Tis thy Faith, thy Faith, which I have choſen for my <hi>Encomium</hi> and <hi>Panc<g ref="char:EOLhyphen"/>gyrick.</hi>
+            </p>
+            <pb n="14" facs="tcp:104654:11"/>
+            <p>And O thou Almighty, Three in One, ſo enable me to ſing of it, that I may make thy <hi>Moſes</hi> as famous among Chriſtians, for his Righteouſneſs of Faith, as ever he was among the Jews for his Works of the Law. The Jewiſh Rabbins re<g ref="char:EOLhyphen"/>port of <hi>Moſes,</hi> that when the Courtiers of <hi>Pharaoh</hi> were on a time ſporting with the Child in the Bed-chamber of his Daugh<g ref="char:EOLhyphen"/>ter, they preſented to his choice an Ingot of Gold in the one Hand, and a burning Coal in the other; and that the Child ſnatcht at the Coal of Fire and clapt it into his Mouth, and therewith ſo ſing'd and parch'd his Tongue, that he ever after ſtammered in his Speech.</p>
+            <p>The clapping of the burning Coal into his Mouth, might, I grant, cauſe the ſtuttering of his Tongue, and the flowneſs of his ſpeech; for he was by his own Confeſſion, <hi>Exod</hi> 4.10. no ready Spokeſman. But, ſure I am, that his preferring in his choice the burning cole before the Ingot of Gold, was a moſt evident prediction of his contempt of Worldly wealth and glo<g ref="char:EOLhyphen"/>ry. And of that fiery zeal which towards the glory of God, and the good of his Church, burned in his Breaſt.</p>
+            <p>No ſooner was <hi>Moſes</hi> in <hi>Pharaohs</hi> Court come to years of diſcretion, but he begins to call to mind that he was by nature, and Nation, an <hi>Hebrew,</hi> one that had right by Faith to the Promiſes of God, and the Kingdom of Heaven; and was only by Adoption the Son of <hi>Pharaohs</hi> Daughter, and Heir of <hi>Egypts</hi> Crown, and ſeriouſly conſiders with himſelf whether it were not better for him to ſuffer a light and momentary affliction, with his natural Brethren the <hi>Hebrews</hi> for a while here, and to be made partaker with them of an everlaſting weight of glo<g ref="char:EOLhyphen"/>ry hereafter: than with his Adopted Brethren, the <hi>Egyptians,</hi> to enjoy the pleaſures of ſin for a ſeaſon, and afterwards to be caſt into a Lake of everlaſting burning and torment.</p>
+            <p>Had this choice been put to ſome profane and unbelieving Atheiſt, to one who looks not beyond the Moon, and hath no
+<pb n="15" facs="tcp:104654:11"/>hopes of joy but only in this preſent World; he would ſoon have concluded that it was better to ſide with the proſperous <hi>Egyptians,</hi> than with the afflicted <hi>Hebrews.</hi> That a bird in the Hand was worth two in the Buſh. The poſſeſſion of a Cottage to be preferred before the reverſion of a Kingdom.</p>
+            <p>Had it been propoſed to ſome greedy Epicure, who is all for preſent pleaſure, and hath his Stomach ſo ſharp ſet, that he cannot ſtay till the banquet be prepared and all the gueſts come, he would without any demur have given in his verdict, That it was much better to enjoy <hi>Egypts</hi> preſent portion of Pleaſure, than to wait for <hi>Iſraels</hi> future one.</p>
+            <p>Had it been propoſed to ſome delicate tender-ſingred Cour<g ref="char:EOLhyphen"/>tier, one that hates Labour and loves Eaſe and Idleneſs, riſeth againſt Dinner, plays till Supper, drinks till Midnight, and whores till Morning; he would ſoon have ſatisfied his Judg<g ref="char:EOLhyphen"/>ment, that it was much better to ſit frolicking in <hi>Pharaoh</hi>'s Pa<g ref="char:EOLhyphen"/>lace, by a warm Fire, or Wine, and Junkets, than to ſtand ſmarting in a Sulphury Brick-kiln, among the enſlaved <hi>Iſraelites,</hi> with bitter Taunts and more bitter blows.</p>
+            <p>Had it been propoſed to ſome fickle complying Time-ſerver, who Weather-cock-like beaks always fair towards the Wind, keeps ſtill on that warm-ſide of the Sun, holds ever with the ſtrongeſt Party; and is reſolved to keep his Goods and Body ſafe, what ever becomes of his Soul: he would ſoon have been won to deal with the afflicted <hi>Iſraelites,</hi> as <hi>Demas</hi> did with the perſecuted. St. <hi>Paul,</hi> have forſaken them, and embraced the ſociety and fellowſhip of the proſperous <hi>Egyptians.</hi> Such ti<g ref="char:EOLhyphen"/>merous Time-ſerving, complying men, may I grant, love God, and Godlineſs well; but they love Women, and Gain much better; and there when it comes to the puſh, they will rather part with God, and a good Conſcience, then looſe any thing by them.</p>
+            <pb n="16" facs="tcp:104654:12"/>
+            <p>But <hi>Moſes</hi> was otherwiſe Principled, and having an Eye in his Head that looked beyond the viſible things which are Tem<g ref="char:EOLhyphen"/>poral; a Heart in his Breaſt, which had reſpect unto the future Recompence, and great Reward, that is laid up for all Faith<g ref="char:EOLhyphen"/>ful and Pious Souls in Heaven, he abandons all his Earthly Titles and Honours, and prefers the ſtile and Title of God; Son, before that of <hi>Pharaohs</hi> Daughter; forſakes all the glit<g ref="char:EOLhyphen"/>tering Pomp and Vanity of the World, the ſinful Luſts and Pleaſures of the Fleſh; <hi>And chuſeth rather to ſuffer Affliction with the People of God, &amp;c.</hi>
+            </p>
+            <p>I know, if you look upon this act of <hi>Moſes</hi> with a natu<g ref="char:EOLhyphen"/>ral Eye, you will be apt to cenſure him for a man beſides him<g ref="char:EOLhyphen"/>ſelf, and little better than Mad; but though <hi>Moſes</hi> ſeemed to be Mad in ſo doing, yet he ſeems Mad as <hi>David</hi> did at <hi>Gate, Regi Achis,</hi> to none but Fools and Mad-men.</p>
+            <p>Surely they who have the Eyes of their underſtanding enlight<g ref="char:EOLhyphen"/>ned, to ſee but a glimpſe of that exceeding weight of Glory, which God hath prepared in Heaven for thoſe that ſuffer pati<g ref="char:EOLhyphen"/>ently, and with an humble ſubmiſſion to his good pleaſure and providence, <hi>a light and momentary affliction here on Earth;</hi> and to behold that Kingly eſtate and dignity, unto which Chriſt will exalt all theſe in Heaven that ſuffer with him, and for his ſake here on Earth; will not for ſo doing condemn him for a Madman and a Fool, but highly applaud him for a Wiſeman, and a Faithful. For by ſo doing he plainly manifeſted that he looked not on the the Temporal things which are viſible, but on the Eternal ones which are inviſible. And it was, ſaith our Apoſtle, <hi>through Faith that</hi> Moſes <hi>when he came to age, &amp;c. Chooſing rather, &amp;c.</hi>
+            </p>
+            <p>But did not <hi>Moſes</hi> in this his voluntary chooſing of affliction, and running himſelf Headlong into danger, tempt God, and Sin? Is not Man a weak frail Creature, unable of himſelf to withſtand the leaſt temptation, or to ſtand under the lighteſt
+<pb n="17" facs="tcp:104654:12"/>Load of Affliction? And hath not our great General <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Jeſus, not only taught us by his own Example <hi>John</hi> 8. <hi>ult.</hi> to Shun and Avoid danger? But alſo enjoyned us by his Pre<g ref="char:EOLhyphen"/>cept, to Pray that we be kept from Temptation, and to be delivered from Evil?</p>
+            <p>Though to run Headlong into danger and wilfully to draw trouble upon himſelf, be not the part of a Wiſe and Prudent Man, yet bravely to own and bear Affliction when it is laid upon him, is the part of a True Chriſtian man, and good Soul<g ref="char:EOLhyphen"/>dier of Jeſus Chriſt.</p>
+            <p>Baſely to deny his Maſter when the owning of him was the way to bring him into trouble, was not the Wiſdom and Piety, but the Folly and Sin of St. <hi>Peter,</hi> and that which coſt him a Flood of Tears to Lament, and it was by their hold owning of Chriſt, when Perſecutors Thirſted as greedily after the Blood of Saints, as ever did hungry Evening Wolves after Lambs Blood, that won the Noble Army ſuch Honour and Re<g ref="char:EOLhyphen"/>nown.</p>
+            <p>When Gods People are in Bondage, his Church under Perſecution, it is not then put to our Choice, whether we will ſuffer with them; but whether we will be of them. For if we be of them, we cannot chuſe but ſuffer with them. It being with the Member of Chriſts Myſtical Body, the Church, as with the Mmbers of a Natural Body: If one Member ſuffer, all the Members ſuffer with it: That Member of the Natural Body is Dead and Putrified, which is not ſenſible of the Blows and Thruſts which are given to the reſt of the Members; and that Member of Chriſts Myſtical Body, is like the Church of <hi>Sardis,</hi> hath a name that it liveth, but is indeed Dead; which is not moved to Compaſſion and Paſſion, at the Sorrows and Sufferings of his Brethren.</p>
+            <pb n="18" facs="tcp:104654:13"/>
+            <p>It is for a Profane and Unnatural <hi>Edomite,</hi> to ſtand Laughing at the Calamity, and to help to ſet forward the Sufferings of his Brethren. A true <hi>Iſraelite</hi> always Sympathi<g ref="char:EOLhyphen"/>zeth in Suffering with his Brethren; is forry for the Afflicti<g ref="char:EOLhyphen"/>on of <hi>Joſeph,</hi> and Weeps with them that Weep.</p>
+            <p>
+               <hi>Moſes</hi> therefore in chuſing Affliction with the People and Church of God, when Afflicted and under Perfecution, did not Tempt God, but plainly manifeſted himſelf to be a True Son of God, and a Faithful Member of his Church.</p>
+            <p>In time of Peace, when the Sunſhine of Proſperity Gra<g ref="char:EOLhyphen"/>ceth the Church, when Piety grows into Faſhion, and is in great Eſteem in the World; every one will be a Profeſſer of it; but when it grows out of Faſhion, is eſteemed the great Crime of the World, the Sect that is every where ſpoken againſt: then then to be a Profeſſer, and Practiſer of it, is to manifeſt a man to be Pious indeed, and the True and Faithful Servant of God.</p>
+            <p>But why is <hi>Moſes</hi> here ſaid by the Apoſtle to have cho<g ref="char:EOLhyphen"/>ſen Affliction? Since it is plain in the Hiſtory, <hi>Exod.</hi> 2. That he did not Voluntary quit, but was forced through fear to forſake <hi>Pharoahs</hi> Court?</p>
+            <p>Though his leaving of <hi>Pharoahs</hi> Court, ſeem indeed to have ſomething of Compulſion in it, yet his going to Viſit his Bre<g ref="char:EOLhyphen"/>thren, and his looking with a Pitiful and Compaſſionate Eye on their Afflictions and Sufferings was a free and Voluntary act, and no other thing Conſtrained him unto it, but the Motion and Inſpiration of Gods Holy Spirit, for it came into his heart, ſaid St. <hi>Stephen, Acts</hi> 7.23. to go and Viſit his Bre<g ref="char:EOLhyphen"/>thren.</p>
+            <p>Had <hi>Moſes</hi> been <hi>Egyptianized,</hi> he would when he came and found the <hi>Hebrew</hi> and the <hi>Egyptian</hi> a Fighting, have ſided
+<pb n="19" facs="tcp:104654:13"/>with the <hi>Egyptian,</hi> and not with the <hi>Hebrew.</hi> It being as it were Natural to all Renegadoes, and Apoſtates, to be moſt cruel towards thoſe of their former Sect and Profeſſion. <hi>Mo<g ref="char:EOLhyphen"/>ſ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> therefore in Smiting the <hi>Egyptian</hi> and Reſcuing the <hi>Hebrew,</hi> gave a moſt Evident Teſtimony of his Affection towards his Natural Brethren.</p>
+            <p>And in that particular deliverance he gave them a ſign, that he was come to give them a general Gaol deliverance from <hi>E<g ref="char:EOLhyphen"/>gypt</hi>'s Bondage, and ſuppoſed, ſaith St. <hi>Stephen. Acts</hi> 7.25. That his Brethren would have underſtood by that particular. Deli<g ref="char:EOLhyphen"/>verance, That God by his hand would give them a general Goal Deliverance.</p>
+            <p>And ſurely had the <hi>Iſraelites</hi> been as willing at that time, to receive him for their Prince and Saviour, as he was for<g ref="char:EOLhyphen"/>ward to offer himſelf, and had they not ſcornfully thruſt him off, with a <hi>Who made the a Judge, and Ruler over us?</hi> He would have made it moſt Evident, That he was not Con<g ref="char:EOLhyphen"/>ſtrayned and Enforced, but Voluntarily, and of his own free Will did chuſe rather to ſuffer Affliction, <hi>&amp;c.</hi>
+            </p>
+            <p>You have ſeen, Brethren, how <hi>Moſes</hi> manifeſted his Faith, even by preferring the future and Eternal Joys of Heaven, before the preſent Tranſient Honours, Pleaſures, Contentments of an Earthly Crown.</p>
+            <p>I dare not now oppoſe him unto you as a Pattern to fol<g ref="char:EOLhyphen"/>low and Imitate, I know your high flown and Goſpel Faith, will ſcorn to ſtoop to this Low and Legal Preſident.</p>
+            <p>But ſure notwithſtanding the great boaſting that is now adays made of Faith, my Faith tells me, that the moſt Faithful man amongſt us, comes far ſhort of <hi>Moſes,</hi> and that there is Sca<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> a man to be found in thoſe bright Sun ſhine Days of the Goſ<g ref="char:EOLhyphen"/>pel, that is able to give ſuch an evident Demonſtration of his
+<pb n="20" facs="tcp:104654:14"/>Faith, as <hi>Moſes</hi> did here under the Law, <hi>In thuſing to<g ref="char:EOLhyphen"/>ther,</hi> &amp;c.</p>
+            <p>Though we talk much in this Age of Faith, of Faith, and of our Dependance on Future good things, yet tis on Sight, on Sight and in the Enjoyment of the good things that are preſent, that all <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Felicity is Plac'd, and rather then we will ſuffer a light and Mo<g ref="char:EOLhyphen"/>mentary Affliction here to be made partakets of an exceeding weight of Glory hereafter, we will chuſe rather on the Wing of a Short-liv'd Pleaſure, and Pro<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, to be carried into the Infernal Pit of Everlaſting Torments.</p>
+            <p>And though we boaſt much of the goodneſs of our fight, and opened eyes, yet that we are blind and cannot ſee a far of, even beyond this preſent World, we plainly manifeſt by our Loathneſs to part with our Earthly Goods and Poſſeſſions for the gaining of a Heavenly Crown and Kingdom.</p>
+            <p>So far are we from manifeſting our Faith, as did <hi>Moſes,</hi> by <hi>Chooſing rather, &amp;c.</hi> that we eſteem no man to be a Child of God that is Afflicted and Perſecuted: We uſually meaſure mens goodneſs, now a days, by their greatneſs; their Saint<g ref="char:EOLhyphen"/>ſhip, by their ſucceſs, and faithleſly think that God loves none but ſuch as he ſuffers to flouriſh here in all Worldly wealth and felicity.</p>
+            <p>Surely did we believe the Holy Scriptures, which for the main are nothing elſe but a Hiſtory of the Churches Perſecu<g ref="char:EOLhyphen"/>tion, but a Martyrology of the Saints Sufferings: And had we hope as we profeſs, to be Saved by a Poor, Deſpiſed, Mocked, Scorned, Scourged, Crucified Saviour: We would en<g ref="char:EOLhyphen"/>certain a more Honourable Eſteem of the Croſs, a Nobler O<g ref="char:EOLhyphen"/>pinion of thoſe whom he is pleaſed ſo far to Honour, as to make them his fellow Sufferers and would not with thoſe <hi>Bar<g ref="char:EOLhyphen"/>barians. Acts</hi> 27.4. Condemn all thoſe for wicked Men, on whoſe hands we ſee the Viper of danger to faſten.</p>
+            <pb n="21" facs="tcp:104654:14"/>
+            <p>Did we believe indeed that there is another World, and were throughly perſwaded that after the Diſſolution of our Earth<g ref="char:EOLhyphen"/>ly <hi>Tabernacles, there is a Houſe not made with hands, prepared for us in Heaven,</hi> we would not by balking the Croſs, by com<g ref="char:EOLhyphen"/>plying with the Times, humouring of Men, and making our Religion a State one, ſeek to prolong our Life and Liberty here on Earth; but would be ready with St. <hi>Paul,</hi> to run through Perſecution of all ſorts; yea, to <hi>die daily,</hi> in expectation of that great Reward which is promiſed, <hi>Matth.</hi> 5.10. to all that <hi>ſuffer for Righteouſneſs ſave;</hi> and would eſteem the Re<g ref="char:EOLhyphen"/>proaches and Scorns that are caſt on us for Chriſts ſake and his Goſpel, the greateſt Honour that can be done us.</p>
+            <p>Did we make Gods Word our dayly ſtudy, read and re<g ref="char:EOLhyphen"/>member how it is written there, That Gods People the <hi>Jews,</hi> were after a long and hard Servitude in <hi>Egypt,</hi> ſet at Liberty, and brought into the Promiſed Land; and how <hi>Pharaoh</hi> and his Jovial Courtiers, that afflicted and kept them in Bon<g ref="char:EOLhyphen"/>dage, were all either conſumed by thoſe heavy Plagues which God ſout on their Nation, or drown'd in the <hi>Red Sea,</hi> we would wiſh rather, with poor naked and pained <hi>Lazarus,</hi> to be carried into <hi>Aaraham</hi>'s Boſom, than with rich, dainty and delicate <hi>Dives,</hi> to be caſt into Hell-Fire; yea, would chuſe with <hi>Moſes, rather,</hi> &amp;c.</p>
+            <p>Were we indeed true believing Chriſtians, we would not only <hi>rejoyce in hope of the Glory of God,</hi> but would alſo with our brave Leaders the Bleſſed Apoſtles, <hi>glory in our Tribulati<g ref="char:EOLhyphen"/>ous,</hi> eſteem our Sufferings for Chriſt's Cauſe, to be the very Marks of the Lord <hi>Jeſus,</hi> as termed, <hi>Gal.</hi> 6.17. our Perſecu<g ref="char:EOLhyphen"/>tions for Righteouſneſs ſake the Earneſt of the Heavenly Crown and Kingdom, <hi>Matth.</hi> 5.10. our Chaſtiſements for our Sins, to be the very tokens of our Heavenly Fathers Love and Affection towards us, <hi>Heb.</hi> 12.6.</p>
+            <pb n="22" facs="tcp:104654:15"/>
+            <p>Though he be eſteemed a happy man, unto whom God gives Riches and Honour, and gives him alſo power to eat thereof, and Comfortably to Enjoy them: yet he is indeed a happy man, unto whom God gives Trouble and Afflictions, and gives them withall Grace to make good uſe of them, and to im<g ref="char:EOLhyphen"/>prove them to his Spiritual advantage. And what ever men think of worldly felicity, there is aſſu<g ref="char:EOLhyphen"/>redly no Life ſo profitable, as that which is a little ſprinkled with the Salt of Croſſes; and though <hi>E<g ref="char:EOLhyphen"/>gypt,</hi> and the Houſe of Bondage, be no place for Gods <hi>Iſrael</hi> to dwell in and inhabit; yet will the ſer<g ref="char:EOLhyphen"/>ving of an hard Apprenticeſhip here, make them more highly to prize and eſteem the promiſed <hi>Canaan.</hi>
+            </p>
+            <p>I know not what cauſe others may have to hate and hurt their Task-maſters and Oppreſſors; but I find that I have great cauſe to love and pray for them; yea, in in ſome ſort to prefer them before my Friends. My Friends oft entice me out of the Heavenly Rode, into the ſlippery path of Pleaſure; but mine Enemies, Per<g ref="char:EOLhyphen"/>ſecutors and Slanderers, make me careful to keep the right way to Heaven, and to take heed that I ſuffer not my feet to turn either to the right hand or the left from the Path of Gods Holy Commands; for if I do, I ſhall be ſure to hear of it from them. Though to flow in wordly wealth, to be pointed at with the finger, and to be croucht to by every one, be an eſtate, which fleſh, rebellious fleſh would ſome<g ref="char:EOLhyphen"/>times make me ambitious of; yet when in my Mid-Night thoughts and ſecret retirements, I ſeri<g ref="char:EOLhyphen"/>ouſly conſider the deadly poiſon that lies in the ho<g ref="char:EOLhyphen"/>nied Cup of Proſperitie, and the wholſom healthful
+<pb n="23" facs="tcp:104654:15"/>Potion, that is contained in the <hi>aloed</hi> one of Adverſi<g ref="char:EOLhyphen"/>ty, it makes me earneſtly beſeech God, rather to give me a bitter Pill, and to purge me with <hi>Hyſop</hi> that I may clean; than to give me a ſugred Potion, and to ſuffer me to roull in all wordly Felicity; till with <hi>Jeſurun</hi> I grow wanton, and kick againſt him: hum<g ref="char:EOLhyphen"/>bly to beg of him, rather to reſtrain and keep me from future preſumptions and ſins, by his gentle Chaſtiſe<g ref="char:EOLhyphen"/>ments and Corrections, than to let me run headlong into all licentiouſneſs, by his ſeeming ſweet, but cruel Indulgence: yea, it makes me wiſh rather with poor naked and pained <hi>Lazarus,</hi> to be carried into <hi>Abraham</hi>'s Boſom, than the rich, dainty and delicate <hi>Dives,</hi> to be caſt into Hell-Torments; and makes me to chuſe rather with the faithful <hi>Moſes</hi> to ſuffer affliction, <hi>&amp;c.</hi>
+            </p>
+            <p>Credit me, my Beloved Brethren, the Love and Favour of God, is infinitely better than the love and favour of the world: and the Joys of Heaven are as far above thoſe of Earth in worth as they are in height. And all truly faithful Men, ſuch as have their eyes enlightned to ſee things afar off; have eſtee<g ref="char:EOLhyphen"/>med it much better to be chaſtned of the Lord here, and ſpared hereafter, than ſpared here and reſerved unto the day of Judgment to be puniſhed hereafter; halt and maimed to enter into Life, than whole and ſound to be caſt into Hell. To ſwim through a boi<g ref="char:EOLhyphen"/>ling River of Brimſtone to be eternally happy, than to dwell in a Paradiſe now, and after death to be damned.</p>
+            <p>It was the Prayer of St. <hi>Auguſt. Lord, here cut, maſſacre and burn me; ſo thou wilt hereafter ſpare and
+<pb n="24" facs="tcp:104654:16"/>ſave me.</hi> And it was the Opinion of our late Glorious Kingly Martyr. <hi>Ch.</hi> I. That our afflictions were infi<g ref="char:EOLhyphen"/>nitely better with Gods Grace to ſanctifie and improve them, than our proſperity with an unlimited appe<g ref="char:EOLhyphen"/>tite, and the Reins let looſe to all Licentiouſneſs. And it was the choice of the faithful <hi>Moſes</hi> here, <hi>rather to ſuffer affliction with the People of God, than to enjoy the pleaſures of ſin for a ſeaſon</hi> amongſt the vicious <hi>Egyptians.</hi>
+            </p>
+            <closer>And thus to do like true Sons of Faith, whenever occaſion ſhall be offered us: God give us his Grace, and to him be all Glory, now and for ever <hi>Amen. HALLEL<g ref="char:V">Ʋ</g>JAH.</hi>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
